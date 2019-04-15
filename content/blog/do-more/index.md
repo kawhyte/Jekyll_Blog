@@ -1,7 +1,7 @@
 ---
-title: Do More and more 
+title: Do More than more 
 date: "2019-04-14T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Hey!!! This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 Far far...far away, behind the word mountains, far from the countries Vokalia and
